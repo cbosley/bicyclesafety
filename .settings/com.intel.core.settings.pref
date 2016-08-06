@@ -1,0 +1,4 @@
+#
+#Sat Aug 06 12:36:15 EDT 2016
+com.intel.core.target.selection="edison18"
+com.intel.core.project.type.id="com.intel.iotdevkit.java.iotJavaNature"
